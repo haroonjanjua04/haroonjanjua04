@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm @haroonjanjua04
 
-<!--
-**haroonjanjua04/haroonjanjua04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building practical websites and developing my web development skills through hands-on projects.
 
-Here are some ideas to get you started:
+## Current work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Top Motor Group** — a vehicle dealership website with stock browsing, enquiry forms, and a PHP/MySQL administration backend. Currently in development and hosting integration; source is intended to remain private.
+
+## Technologies in my current projects
+
+HTML · CSS · JavaScript · PHP · MySQL
+
+I use AI-assisted development tools and document what is implemented, tested, and still in progress.
+
+[Browse my repositories](https://github.com/haroonjanjua04?tab=repositories)
+
